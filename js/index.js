@@ -43,3 +43,12 @@ Cookies are small piese of text sent by the website to it's visitors.it helped t
 Some cookies can be stored in clients browser but most of them let the user to customize coockies.
 cookies also used for security purpous. This allows users to authenticate themselves. prevent fraud activities.
 some cookies used to prevent spam. some cookies expired in 6 months or 13 month or even 2 years last. and exactly from many other couses to use cookies it smooth the user experiences.*/
+
+// practise 5
+
+/* 
+1.local storage not expire when close the browser. but sesson storage is cleared.
+2.local storage saved till not clear or remove but session storage time is open time of the browsers trab.
+3.data can be stored 10MB  but session storage is 4or 5MB
+
+*/
