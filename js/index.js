@@ -11,3 +11,12 @@ const se = () => {
 };
 
 se();
+
+const practiseTwo = () => {
+  sum = 200;
+  const userinput = JSON12.parse(prompt("Please enter your number"));
+  alert(userinput + sum);
+};
+
+practiseTwo();
+12;
