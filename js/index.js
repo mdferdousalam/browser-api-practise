@@ -34,4 +34,12 @@ const conf = () => {
   }
 };
 
-conf();
+// conf();
+
+// practise 4
+
+/*
+Cookies are small piese of text sent by the website to it's visitors.it helped the site to remember the choice of visitors in that website
+Some cookies can be stored in clients browser but most of them let the user to customize coockies.
+cookies also used for security purpous. This allows users to authenticate themselves. prevent fraud activities.
+some cookies used to prevent spam. some cookies expired in 6 months or 13 month or even 2 years last. and exactly from many other couses to use cookies it smooth the user experiences.*/
