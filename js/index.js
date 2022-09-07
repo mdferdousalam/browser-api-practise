@@ -19,4 +19,3 @@ const practiseTwo = () => {
 };
 
 practiseTwo();
-12;
