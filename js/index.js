@@ -1,3 +1,4 @@
+// praqctise 1
 const se = () => {
   console.log("1");
   console.log("2");
@@ -10,12 +11,27 @@ const se = () => {
   console.log("7");
 };
 
-se();
+// se();
+
+// practise 2
 
 const practiseTwo = () => {
   sum = 200;
-  const userinput = JSON12.parse(prompt("Please enter your number"));
+  const userinput = JSON.parse(prompt("Please enter your number"));
   alert(userinput + sum);
 };
 
-practiseTwo();
+// practiseTwo();
+
+// practise 3
+console.log(document);
+
+const conf = () => {
+  const islocationshow = confirm("তুমি কি তোমার ওয়েবসাইট এর লোকেশন দেখতে চাও");
+
+  if (islocationshow === true) {
+    console.log(document.location.href);
+  }
+};
+
+conf();
